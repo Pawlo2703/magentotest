@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Pawel_Productsub>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Pawel_Productsub>
+    </modules>
+</config>

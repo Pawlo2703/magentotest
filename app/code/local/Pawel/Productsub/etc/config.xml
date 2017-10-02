@@ -1,0 +1,28 @@
+<config>
+    <modules>
+        <Pawel_Productsub>
+            <version>0.1.0</version>
+        </Pawel_Productsub>
+    </modules>
+
+    <frontend>
+        <layout>
+            <updates>
+                <pawel_productsub>
+                    <file>pawel_productsub.xml</file>
+                </pawel_productsub>
+            </updates>
+        </layout>
+    </frontend>
+
+    <global>
+        <blocks>
+            <catalog>
+                <rewrite>
+                    <product_view_type_simple>Pawel_Productsub_Block_Product_View_Type_Simple</product_view_type_simple>
+                </rewrite>
+            </catalog>
+        </blocks>
+    </global>
+
+</config>

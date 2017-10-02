@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <PRODUCT_TYPE_simple translate="label" module="catalog">
+        <reference name="product_type_data">
+            <action method="setTemplate">
+                <template>pawel_productsub/catalog/product/view/type/availability/default.phtml</template>
+            </action>
+        </reference>
+    </PRODUCT_TYPE_simple>
+</layout>
